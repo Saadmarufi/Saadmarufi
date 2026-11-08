@@ -1,5 +1,28 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Saadullah Marufi
+# Saadullah Marufi
+
+Digital Media & Design Specialist & Inventory Control Coordinator at BASIS Waterproofing Supplies in Ottawa, ON.
+
+## Skills
+- HTML5, CSS3, JavaScript, Python, SQL
+- WordPress/WooCommerce, Odoo
+- Adobe Creative Suite
+
+## Links
+- Website: https://pixelandbrush.com/
+- LinkedIn: https://www.linkedin.com/in/marufism/
+
+## About Me
+Digital Media & Design Specialist & Inventory Control Coordinator at BASIS Waterproofing Supplies in Ottawa, ON.
+
+## Skills
+- HTML5, CSS3, JavaScript, Python, SQL
+- WordPress / WooCommerce, Odoo
+- Adobe Creative Suite
+
+## Links & Portfolio
+- Website: https://pixelandbrush.com/
+- LinkedIn: https://www.linkedin.com/in/marufism/
 
 - 🔭 I’m currently working on **....**
 
